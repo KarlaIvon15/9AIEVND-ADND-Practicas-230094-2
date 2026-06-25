@@ -13,3 +13,4 @@ Este repositorio contendra los resultados de las prácticas de la materia para t
 |Número|Descripción|Potenciador|Estatus
 |---|---|---|---|
 |1.|[Introducción al Uso de Python en el Análisis de Datos](/Practica02/Practica2_230094.ipynb)|37|✅ Revisada|
+|2.|[Análisis Exploratorio con Python y Jupyter usando un Dataset de Amazon Store ](/Practica04/Practica04_230094.ipynb)|16|✅ Revisada|
